@@ -1,1 +1,1 @@
-# cleratripAutomation
+# cleartripAutomation
